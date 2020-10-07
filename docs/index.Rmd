@@ -23,7 +23,7 @@ author:
     orcid_id: 0000-0003-0645-5666
 
 date: September 10, 2018
-citation_url: https://rstudio.github.io/distill
+citation_url: https://Ljwook92.github.io/distill
 bibliography: biblio.bib
 link-citations: true
 output:
