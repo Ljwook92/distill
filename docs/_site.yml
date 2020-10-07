@@ -11,7 +11,7 @@ navbar:
     href: https://www.rstudio.com
   source_url: true
   right:
-    - text: "Authoring"
+    - text: "About"
       menu:
         - text: "Distill Basics"
           href: basics.html
