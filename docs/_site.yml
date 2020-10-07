@@ -1,8 +1,8 @@
 name: "distill"
 title: "Distill for R Markdown"
 favicon: images/favicon.png
-base_url: https://rstudio.github.io/distill
-repository_url: https://github.com/rstudio/distill
+base_url: https://Ljwook92.github.io/distill
+repository_url: https://github.com/Ljwook92/distill
 creative_commons: CC BY
 output_dir: "."
 navbar:
