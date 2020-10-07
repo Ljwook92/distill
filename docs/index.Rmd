@@ -2,7 +2,7 @@
 title: "Distill for R Markdown"
 description: Scientific and technical writing, native to the web
 author:
-  - name: "JJ Allaire"
+  - name: "Jeongwook Lee"
     url: https://github.com/jjallaire
     affiliation: RStudio
     affiliation_url: https://www.rstudio.com
