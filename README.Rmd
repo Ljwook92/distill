@@ -1,5 +1,5 @@
 ---
-title: Distill for R Markdown
+title: Distill
 output: github_document
 ---
 
